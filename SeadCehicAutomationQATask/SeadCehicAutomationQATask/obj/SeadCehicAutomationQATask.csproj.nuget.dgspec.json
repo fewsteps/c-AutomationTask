@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seadc\\OneDrive\\Radna površina\\QAAutomationTask-SeadCehic-a12c2f6c-18b2-435c-95cc-e7f39d71101e\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seadc\\OneDrive\\Radna površina\\QAAutomationTask-SeadCehic-a12c2f6c-18b2-435c-95cc-e7f39d71101e\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seadc\\OneDrive\\Radna površina\\QAAutomationTask-SeadCehic-a12c2f6c-18b2-435c-95cc-e7f39d71101e\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask.csproj",
+        "projectName": "SeadCehicAutomationQATask",
+        "projectPath": "C:\\Users\\seadc\\OneDrive\\Radna površina\\QAAutomationTask-SeadCehic-a12c2f6c-18b2-435c-95cc-e7f39d71101e\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask.csproj",
+        "packagesPath": "C:\\Users\\seadc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seadc\\OneDrive\\Radna površina\\QAAutomationTask-SeadCehic-a12c2f6c-18b2-435c-95cc-e7f39d71101e\\SeadCehicAutomationQATask\\SeadCehicAutomationQATask\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\seadc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Gherkin": {
+              "target": "Package",
+              "version": "[19.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Selenium.WebDriver.WaitExtensions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
